@@ -20,7 +20,7 @@ function random(){
         img.style.position = "absolute";
       
 
-        img.style.height = "100px"
+        img.style.height = "300px"
        
 
 
